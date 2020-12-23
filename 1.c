@@ -12,5 +12,10 @@ void main()
         sum=sum+temp;
       }
     }
+    if(sum==x)
+    {
+      printf("%d",x);
+    }
   }
+  printf("\n");
 }
