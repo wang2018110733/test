@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
   intx,temp;
   for(x=1;x<100;x++)
@@ -18,4 +18,5 @@ void main()
     }
   }
   printf("\n");
+  return 0;
 }
